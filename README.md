@@ -7,6 +7,19 @@ single analysis. All of the code can be found in the directory
 
 ## History
 
+```
+Jun  5  2012 MATRIXmlFunk.r
+Jun  5  2012 OLDmultilocusFunctions.r
+Jun 18  2012 multilocusFunctions0.0.2.r
+Jun 19  2012 multilocusFunctions0.0.3.r
+Jun 20  2012 multilocusFunctions0.0.4.r
+Jun 21  2012 multilocusFunctions0.0.1.r
+Jun 22  2012 multilocusFunctions0.0.5.r
+Jun 22  2012 multilocusFunctions0.0.6.r
+Nov  4  2012 multilocusFunctions.r
+Nov  4  2012 multilocusFunctions0.0.7.r
+```
+
 These scripts are what eventually turned into the R package [*poppr*][1]. This
 was before I had learned of version control or even the concept of vectors in
 R. In the spring and summer of 2012, I was attempting to write an R function to
