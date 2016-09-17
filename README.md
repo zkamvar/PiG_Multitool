@@ -2,11 +2,12 @@
 
 This repository contains standalone R scripts that are not guaranteed to work.
 It is here as an example of what not to do when writing code, even for a
-single analysis. 
+single analysis. All of the code can be found in the directory 
+[**the_horror/**][0].
 
 ## History
 
-These scripts are what eventually turned into the R package [*poppr*][0]. This
+These scripts are what eventually turned into the R package [*poppr*][1]. This
 was before I had learned of version control or even the concept of vectors in
 R. In the spring and summer of 2012, I was attempting to write an R function to
 analyze the Index of Association because the only available programs at the
@@ -25,7 +26,7 @@ vetoed by myself and others.
 
 Below are some of the initial suggestions for the package name that were vetoed
 for various reasons mainly involving their search-ability and connotations. I
-will not reveal the name of those who came up with these abominations (but I 
+will not reveal the name of those who came up with these [abominations][2] (but I 
 could be persuaded with :beer:).
 
  - **R** **P**ackage for population **G**enetics
@@ -45,4 +46,6 @@ could be persuaded with :beer:).
  - BrowniePoints (After A.H.D. Brown)
  - CastorPOP (*Castor* is the Beaver genus)
 
-[0]: http://cran.r-project.org/package=poppr
+[0]: the_horror/
+[1]: http://cran.r-project.org/package=poppr
+[2]: http://www.phdcomics.com/comics.php?f=1100
